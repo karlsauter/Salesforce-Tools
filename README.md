@@ -13,3 +13,7 @@
 
 - Nebula Logger: https://github.com/jongpie/NebulaLogger
 - Pharos Triton: https://triton.pharos.ai/pharos-triton?ref=pablogonzalez.io
+
+## People to follow
+
+- Pablo Gonzalez: https://www.pablogonzalez.io/
