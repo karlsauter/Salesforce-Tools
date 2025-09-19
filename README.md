@@ -8,12 +8,11 @@
 
 ## Trigger Handler Frameworks
 
-- Nebula Trigger 
+- Nebula Trigger Framework: https://github.com/jongpie/NebulaTriggerHandler
 
 ## Test Data Generators:
 
 - Test Data Factory: https://benahm0.medium.com/apex-test-data-factory-8ed14c2ca050
-- Nebula Trigger Framework: https://github.com/jongpie/NebulaTriggerHandler
 
 ## Loggers
 
