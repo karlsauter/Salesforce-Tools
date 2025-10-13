@@ -4,7 +4,10 @@
 
 - Apex Enterprise Patterns: https://github.com/apex-enterprise-patterns
 - Apex Well Architected: https://awaf.dev/
-- Nebula Framework: https://github.com/jongpie/NebulaFramework
+
+## Selector libraries
+
+- SOQL Lib: https://github.com/beyond-the-cloud-dev/soql-lib
 
 ## Trigger Handler Frameworks
 
