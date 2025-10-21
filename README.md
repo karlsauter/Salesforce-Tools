@@ -20,6 +20,10 @@
 - Apex-Mockery: https://github.com/salesforce/apex-mockery
 - Mocker: https://github.com/gscloudsolutions/GS-Apex-Mocking-Framework
 
+## Dependency Injection
+
+- ApexDI: https://github.com/apexfarm/ApexDI
+
 ## Utilities
 
 - Apex Libra: https://github.com/pkozuchowski/Apex-Opensource-Library
