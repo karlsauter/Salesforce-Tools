@@ -4,6 +4,7 @@
 
 - Apex Enterprise Patterns: https://github.com/apex-enterprise-patterns
 - Apex Well Architected: https://awaf.dev/
+- Apex Fluently: https://apexfluently.beyondthecloud.dev/
 
 ## Selector libraries
 
